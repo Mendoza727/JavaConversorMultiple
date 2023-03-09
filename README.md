@@ -7,5 +7,5 @@ Conversor Sencillo hecho con java
   
   ------------------------------
   <div align="center">
-      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083206535292928020/image.png" width="100"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083206535292928020/image.png" width="500"/>
   </div>
