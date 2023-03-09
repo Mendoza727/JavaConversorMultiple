@@ -29,8 +29,10 @@ Conversor Sencillo hecho con java
   <div align="center">     
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083221868217106462/image.png" width="200"/>
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083221988786589776/image.png" width="200"/>
-      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083220318648283187/image.png" width="200"/>
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222128016506990/image.png" width="200"/>
-      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222128016506990/image.png" width="200"/>
-      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222128016506990/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222492145012736/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222614954221689/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222772009930833/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222875881877514/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083223008769998909/image.png" width="200"/>
  </div>
