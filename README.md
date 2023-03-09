@@ -16,7 +16,7 @@ Conversor Sencillo hecho con java
   </div>
   
 -----------------------------
-  <h3>Conversion Moneda<h3/>
+ - <h3>Conversion Moneda<h3/>
   <div align="center">     
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083219836441735279/image.png" width="200"/>
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083220039341191198/image.png" width="200"/>
@@ -25,10 +25,12 @@ Conversor Sencillo hecho con java
  </div>
   
 -----------------------------
-  <h3>Conversion Temperatura<h3/>
+ - <h3>Conversion Temperatura<h3/>
   <div align="center">     
-      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083219836441735279/image.png" width="200"/>
-      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083220039341191198/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083221868217106462/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083221988786589776/image.png" width="200"/>
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083220318648283187/image.png" width="200"/>
-      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083220453356752936/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222128016506990/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222128016506990/image.png" width="200"/>
+      <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083222128016506990/image.png" width="200"/>
  </div>
