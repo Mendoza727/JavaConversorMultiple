@@ -2,8 +2,8 @@
 Conversor Sencillo hecho con java
 
 🛠️ Funcionalidades :
-  - Conversor de moneda 
-  - Conversor de temperatura 
+  - Conversor de moneda donde podra hacer la tasa de cambio de (dolar, euro, libra, yen, won y peso colombiano)
+  - Conversor de temperatura (Celsius, Fahrenheit, Kelvin)
   
   ------------------------------
   <div align="center">
