@@ -13,6 +13,6 @@ Conversor Sencillo hecho con java
 --------------------------------
 Funcionalidad moneda
  <div align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAzMmZhMzc3MjNiMzJlYjI1MmYyYjc2YzhlYTJlMzc5OTM1ZjY5NSZjdD1n/j16MhgoA81ocWpi1Dk/giphy.gif" width="400" alt="funcionalidadMoneda"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAzMmZhMzc3MjNiMzJlYjI1MmYyYjc2YzhlYTJlMzc5OTM1ZjY5NSZjdD1n/j16MhgoA81ocWpi1Dk/giphy.gif" width="600" alt="funcionalidadMoneda"/>
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083206815841525840/image.png" width="400" alt="funcionalidadTemperatura"/>
   </div>
