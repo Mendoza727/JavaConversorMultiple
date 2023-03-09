@@ -47,11 +47,11 @@ public class ConversorTemperaturas extends JFrame implements ActionListener {
 	        txtResultado.setEditable(false);
 	        getContentPane().add(txtResultado);
 
-	        cmbDesde = new JComboBox<String>(new String[] {"Celsius", "Fahrenheit"});
+	        cmbDesde = new JComboBox<String>(new String[] {"Celsius", "Fahrenheit", "Kelvin"});
 	        cmbDesde.setBounds(20, 130, 110, 20);
 	        getContentPane().add(cmbDesde);
 
-	        cmbHasta = new JComboBox<String>(new String[] {"Fahrenheit", "Celsius"});
+	        cmbHasta = new JComboBox<String>(new String[] {"Fahrenheit", "Celsius", "Kelvin"});
 	        cmbHasta.setBounds(140, 130, 120, 20);
 	        getContentPane().add(cmbHasta);
 
@@ -83,6 +83,14 @@ public class ConversorTemperaturas extends JFrame implements ActionListener {
 	                    resultado = (grados * 1.8) + 32;
 	                } else if (desde.equals("Fahrenheit") && hasta.equals("Celsius")) {
 	                    resultado = (grados - 32) / 1.8;
+	                } else if (desde.equals("Kelvin") && hasta.equals("Celsius")) {
+	                	resultado = grados -  273.15;
+	                } else if (desde.equals("Celsius") && hasta.equals("Kelvin")) {
+	                	resultado = grados + 273.15;
+	                } else if (desde.equals("Kelvin") && hasta.equals("Fahrenheit")) {
+	                	resultado = (grados - 273.15) * 9/5 + 32;
+	                }  else if (desde.equals("Fahrenheit") && hasta.equals("Kelvin")) {
+	                	resultado = (grados - 32) *  5/9 + 273.15;
 	                }
 
 	                txtResultado.setText(String.format("%.2f", resultado));
