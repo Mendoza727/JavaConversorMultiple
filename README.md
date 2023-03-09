@@ -15,8 +15,8 @@ Conversor Sencillo hecho con java
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083206815841525840/image.png" width="400"/>
   </div>
 -----------------------------
-      
-      - inicio covirtiendo moneda local a extranjera 
+       
+  - inicio covirtiendo moneda local a extranjera 
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083219836441735279/image.png" width="400"/>
       - inicio covirtiendo moneda local a extranjera
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083220039341191198/image.png" width="400"/>
