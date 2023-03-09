@@ -37,4 +37,4 @@ Conversor Sencillo hecho con java
       <img src="https://cdn.discordapp.com/attachments/954177284598825070/1083223008769998909/image.png" width="200"/>
  </div>
 -----------------------------
-- Projecto sencillo que dia a dia voy a ir añadiendole mas complejidad gracias por verlo.
+- <h3>Projecto que poco a poco voy a ir mejorando ya que se hizo de manera rapida añadiendole un poco de complejidad. Gracias por verlo :)<h3/>
